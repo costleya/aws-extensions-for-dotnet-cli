@@ -10,7 +10,6 @@
     <PackageTags>AWS;Amazon;Lambda</PackageTags>
     <PackAsTool>true</PackAsTool>
 	<ToolCommandName>dotnet-lambda</ToolCommandName>
-	<GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <Company>Amazon.com, Inc</Company>
     <Copyright>Copyright 2009-2019 Amazon.com, Inc. or its affiliates. All Rights Reserved.</Copyright>
     <Product>AWS Lambda Tools for .NET CLI</Product>

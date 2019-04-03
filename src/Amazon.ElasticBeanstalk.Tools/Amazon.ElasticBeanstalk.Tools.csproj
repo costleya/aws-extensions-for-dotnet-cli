@@ -8,8 +8,7 @@
     <PackageId>Amazon.ElasticBeanstalk.Tools</PackageId>
     <PackageTags>AWS;Amazon;Beanstalk</PackageTags>
     <PackAsTool>true</PackAsTool>
-	<ToolCommandName>dotnet-eb</ToolCommandName>
-    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+	  <ToolCommandName>dotnet-eb</ToolCommandName>
     <Version>3.1.0</Version>
     <AssemblyName>dotnet-eb</AssemblyName>
     <Authors>Amazon Web Services</Authors>
